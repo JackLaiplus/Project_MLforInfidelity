@@ -45,7 +45,7 @@
 ```bash
 git clone https://github.com/JackLaiplus/Project_MLforInfidelity.git
 cd Project_MLforInfidelity
-pip install requirements.txt
+pip install -r requirements.txt
 jupyter notebook Project_MLforInfidelity.ipynb
 ```
 
