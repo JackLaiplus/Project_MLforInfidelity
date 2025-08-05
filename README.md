@@ -3,7 +3,7 @@
 ## 🔍 使用機器學習（Machine Learning, ML）預測婚外情的可能性
 
 本專案運用機器學習（Machine Learning, ML）技術，根據個人背景、婚姻與社會特徵，預測受試者會不會發生婚外情的可能性。透過建立模型與特徵分析，我們希望對婚姻中發生外遇行為背後的原因能有更深入的理解，並探索如何降低其發生率。
-
+<br>
 ### 📊 資料集說明
 
 本專案資料來自 **Ray Fair（1977）** 的經典研究，最初發表於 *Journal of Political Economy*。數據共包含 **6,366 筆觀察樣本**，涵蓋多項與婚姻和個人背景有關的變項。
@@ -43,10 +43,10 @@
 ### 🚀 如何使用
 
 ```bash
-git clone https://github.com/JackLaiplus/Project_MLforInfidelity.git
-cd Project_MLforInfidelity
+git clone https://github.com/JackLaiplus/Project_SECOM_PatternMining.git
+cd Project_SECOM_PatternMining
 pip install -r requirements.txt
-jupyter notebook Project_MLforInfidelity.ipynb
+jupyter notebook Project_SECOM_PatternMining.ipynb
 ```
 
 ### 📚 參考資料
