@@ -15,14 +15,12 @@
 | `affairs`            | 過去一年外遇次數（類別變項）                                            |
 | `gender`             | 性別：0 = 女性，1 = 男性                                               |
 | `age`                | 年齡（以年計）                                                         |
-| `yrs_married`        | 婚姻持續年數                                                            |
+| `yearsmarried`        | 婚姻持續年數                                                            |
 | `children`           | 子女人數：0 = 無，1+ = 有子女                                          |
 | `religious`          | 宗教信仰程度：1 = 反宗教，5 = 非常虔誠                                 |
-| `educ`               | 教育程度：9 = 小學，20 = 博士／醫學博士等高等學位                      |
-| `occup`              | 受訪者職業類別（依 Hollingshead 分類反向編碼）                         |
+| `education`               | 教育程度：9 = 小學，20 = 博士／醫學博士等高等學位                      |
+| `occupation`              | 受訪者職業類別（依 Hollingshead 分類反向編碼）                         |
 | `rating`             | 婚姻滿意度自評：1 = 非常不滿意，5 = 非常滿意                           |
-| `husband_occupation` | 配偶職業類別（若適用）                                                  |
-| `time_in_affairs`    | （可選）估計參與外遇的總時間                                           |
 
 ## 🎯 專案目標
 
