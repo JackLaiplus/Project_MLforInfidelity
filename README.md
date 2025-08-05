@@ -38,8 +38,6 @@
 - Python 3.x
 - Pandas / NumPy
 - Scikit-learn
-- XGBoost 
-- Matplotlib / Seaborn
 - Jupyter Notebook
 
 ### 🚀 如何使用
