@@ -4,8 +4,6 @@
 
 本專案運用機器學習（Machine Learning, ML）技術，根據個人背景、婚姻與社會特徵，預測受試者從事婚外情的可能性。透過模型訓練與特徵分析，我們希望對人在外遇行為背後的因素有更深入的理解，並探索如何降低其發生率。
 
----
-
 ## 📊 資料集說明
 
 本研究資料來自 **Ray Fair（1977）** 的經典研究，最初發表於 *Journal of Political Economy*。數據共包含 **6,366 筆觀察樣本**，涵蓋多項與婚姻與個人背景有關的變項。
@@ -26,8 +24,6 @@
 | `husband_occupation` | 配偶職業類別（若適用）                                                  |
 | `time_in_affairs`    | （可選）估計參與外遇的總時間                                           |
 
----
-
 ## 🎯 專案目標
 
 1. **建立預測模型：**  
@@ -39,8 +35,6 @@
 3. **提出預防建議：**  
    根據模型結果，提供改善婚姻關係與降低外遇風險的可能方向。
 
----
-
 ## 🛠️ 使用技術
 
 - Python 3.x
@@ -50,8 +44,6 @@
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
----
-
 ## 🚀 如何使用
 
 ```bash
@@ -60,8 +52,6 @@ cd Project_MLforInfidelity
 pip install requirements.txt
 jupyter notebook Project_MLforInfidelity.ipynb
 ```
-
----
 
 ## 📚 參考資料
 
