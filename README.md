@@ -46,6 +46,27 @@ cd Project_SECOM_PatternMining
 pip install -r requirements.txt
 jupyter notebook Project_SECOM_PatternMining.ipynb
 ```
+
+### Project_MLforInfidelity — 結論與分析
+
+本專案運用機器學習分析婚外情數據結果如下：
+
+#### (1) 外遇可能性
+模型預測個案外遇機率約 **23% ~ 25%**，風險中等。
+
+#### (2) 主要影響因素
+1. **婚姻滿意度**（越低風險越高）
+2. **結婚年數**（7 年以上較高）
+3. **宗教信仰程度**（越虔誠風險越低）
+4. **年齡**（30~40 歲偏高）
+5. **是否有子女**（有子女略低）
+
+#### (3) 預防建議
+- 提升婚姻滿意度與正向溝通
+- 關注婚姻倦怠期（7~10 年）
+- 強化價值觀與承諾
+- 提供高風險族群心理與情感支持
+
 ### 📚 參考資料
 
 Fair, Ray (1978). A Theory of Extramarital Affairs. Journal of Political Economy, 86(1), 45–61.
