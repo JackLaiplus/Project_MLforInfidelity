@@ -38,16 +38,7 @@
 - Scikit-learn
 - Jupyter Notebook
 
-### 🚀 如何使用
-
-```bash
-git clone https://github.com/JackLaiplus/Project_SECOM_PatternMining.git
-cd Project_SECOM_PatternMining
-pip install -r requirements.txt
-jupyter notebook Project_SECOM_PatternMining.ipynb
-```
-
-### Project_MLforInfidelity — 結論與分析
+### 💍 結論與分析
 
 本專案運用機器學習分析婚外情數據結果如下：
 
@@ -70,6 +61,15 @@ jupyter notebook Project_SECOM_PatternMining.ipynb
 ### 📚 參考資料
 
 Fair, Ray (1978). A Theory of Extramarital Affairs. Journal of Political Economy, 86(1), 45–61.
+
+### 🚀 如何使用
+
+```bash
+git clone https://github.com/JackLaiplus/Project_SECOM_PatternMining.git
+cd Project_SECOM_PatternMining
+pip install -r requirements.txt
+jupyter notebook Project_SECOM_PatternMining.ipynb
+```
 
 
 
