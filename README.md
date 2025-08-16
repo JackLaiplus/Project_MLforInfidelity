@@ -35,7 +35,7 @@
 
 本專案使用機器學習（Machine Learning, ML）技術中的 Logistic Regression **統計模型**來進行預測，預測個案發生婚外情的機率，並透過該**統計模型**的**特徵**權重分析發生外遇行為背後的可能原因，以及利用這些分析結果探討婚姻中如何降低外遇發生。但在建立 Logistic Regression **統計模型**前，必需先使用 StandardScaler 進行**特徵**標準化處理（負責將數值**特徵**標準化（均值 0、標準差 1），讓**統計模型**在不同**特徵**尺度下仍能穩定訓練，係數也更容易解讀。），並透過 train_test_split 進行資料切分（將資料分成訓練集與測試集，確保**統計模型**評估是基於未見過的數據，避免過擬合。），接著才訓練 Logistic Regression **統計模型**，最後以 confusion_matrix、classification_report、roc_auc_score 等來衡量**統計模型**在分類與機率預測上的表現，並檢視預測的精確度、召回率、AUC 等指標。
 
-相關工具列表：
+相關工具：
 - Python 3.x
 - Pandas / NumPy
 - Scikit-learn
