@@ -1,6 +1,6 @@
 # Project_MLforInfidelity
 
-在現代婚姻研究中，外遇行為不僅影響家庭穩定與伴侶、親子關係，也與心理健康、社會價值觀和生活滿意度息息相關。然而，外遇行為的成因往往複雜，涉及個人、伴侶與社會多層面因素。隨著人工智慧（AI）的發展，透過機器學習（Machine Learning, ML）技術進行行為數據分析，提供了新的方式來理解並預測婚姻外遇行為。因此，本專案想問的是，
+在現代婚姻研究中，外遇行為不僅影響家庭穩定與伴侶、親子關係，也與心理健康、社會價值觀和生活滿意度息息相關。然而，外遇行為的成因往往複雜，涉及個人、伴侶與社會多層面因素。隨著人工智慧（AI）的發展，透過機器學習（Machine Learning, ML）技術進行"行為數據"分析，提供了新的方式來理解並預測婚姻外遇行為。因此，本專案想問的是，
 
 我們能否運用機器學習方法更有效地理解與預測外遇行為？
 
@@ -44,10 +44,10 @@
 - Jupyter Notebook
 
 **(2) 建模與分析流程**
-1.使用 StandardScaler 進行**特徵**標準化
-2.train_test_split 將資料分割為訓練集與測試集
-3.訓練 Logistic Regression **統計模型**
-4.透過 confusion_matrix、classification_report、roc_auc_score 評估**統計模型**表現
+1.  使用 StandardScaler 進行**特徵**標準化  
+2.  train_test_split 將資料分割為訓練集與測試集  
+3.  訓練 Logistic Regression **統計模型**  
+4.  透過 confusion_matrix、classification_report、roc_auc_score 評估**統計模型**表現
 
 ### 💍 分析與結論
 
